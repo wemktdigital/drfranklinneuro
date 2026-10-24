@@ -1,0 +1,17 @@
+/
+/404.html
+/politica-de-privacidade/
+/termos-de-uso/
+/tratamentos/artrodose-de-coluna/
+/tratamentos/cirurgia-de-coluna-vertebral-em-sidrolandia/
+/tratamentos/cirurgia-de-coluna-vertebral/
+/tratamentos/cirurgia-de-hernia-de-disco/
+/tratamentos/consultas-de-neurocirurgia-em-sidrolandia/
+/tratamentos/consultas-de-neurocirurgia/
+/tratamentos/infiltracao-para-dor-na-cervical/
+/tratamentos/infiltracao-para-dor-na-coluna/
+/tratamentos/infiltracao-para-dor-na-lombar/
+/tratamentos/neurologia-geral-em-sidrolandia/
+/tratamentos/neurologia-geral/
+/tratamentos/tratamento-clinico-de-coluna-em-sidrolandia/
+/tratamentos/tratamento-clinico-de-coluna/
